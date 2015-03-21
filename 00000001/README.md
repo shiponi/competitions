@@ -2,13 +2,26 @@
 
 ## Basic Information
 
-**No.:** 1
-
-**Name:** Reading a file
-
-**Start Data & Time:** Mar. 22, 2015, 12:00 a.m. UTC
-
-**End Data & Time:** Apr. 12, 2015, 11:00 p.m. UTC
+<table>
+  <tbody>
+    <tr>
+      <td><strong>No.</strong></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><strong>Name</strong></td>
+      <td>Reading a file</td>
+    </tr>
+    <tr>
+      <td><strong>Start Data & Time</strong></td>
+      <td>2015-03-22 12:00 a.m. UTC</td>
+    </tr>
+    <tr>
+      <td><strong>End Data & Time</strong></td>
+      <td>2015-04-12 11:00 p.m. UTC</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Question
 
