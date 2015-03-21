@@ -6,7 +6,7 @@ import "testing"
 const path = "./sample.txt"
 
 // want is an expected number.
-const want = 54
+const want = 45
 
 func TestCount(t *testing.T) {
 	got, err := Count(path)
