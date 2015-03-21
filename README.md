@@ -1,2 +1,1 @@
-# competitions
-Go Benchmark Competitions
+# Go Benchmark Competitions
