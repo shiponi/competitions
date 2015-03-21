@@ -1,0 +1,2 @@
+# competitions
+Go Benchmark Competitions
