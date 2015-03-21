@@ -3,7 +3,7 @@ package bench
 import "testing"
 
 // path is a text file path.
-const path = "./sample.txt"
+const path = "./data.txt"
 
 // want is an expected number.
 const want = 45
