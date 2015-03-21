@@ -2,21 +2,13 @@
 
 ## Basic Information
 
-#### No
+No.: 1
 
-1
+Name: Reading a file
 
-#### Name
+Start Data & Time: Mar. 22, 2015, 12:00 a.m. UTC 
 
-Reading a file
-
-#### Start Data & Time
-
-Mar. 22, 2015, 12:00 a.m. UTC 
-
-#### End Data & Time
-
-Apr. 12, 2015, 11:00 p.m. UTC
+End Data & Time: Apr. 12, 2015, 11:00 p.m. UTC
 
 ## Question
 
