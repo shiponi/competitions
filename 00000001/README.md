@@ -30,7 +30,7 @@ Implement the `Find(path, s string) (string, error)` function in the `bench` pac
 1. Return some kind of `error` if `s` is empty
 2. Read the text file on the `path`
 3. Find the `s` words on the file
-4. Return the row numbers and indexs in the form of `r:c,r:c,...,r:c`, at which the `s` word exists
+4. Return the row numbers and indices in the form of `r:c,r:c,...,r:c`, at which the `s` word exists (Return an empty value if there are no `s` words on the file)
 
 ## Example
 
