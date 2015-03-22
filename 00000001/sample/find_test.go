@@ -9,7 +9,7 @@ const path = "./data.txt"
 const word = "aa"
 
 // want is an expected number.
-const want = ""
+const want = "1:0,1:10,6:0,6:1"
 
 func TestFind(t *testing.T) {
 	got, err := Find(path, word)
