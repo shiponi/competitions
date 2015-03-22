@@ -1,4 +1,4 @@
-# No.1 Reading a file
+# No.1 Find words
 
 ## Basic Information
 
@@ -10,7 +10,7 @@
     </tr>
     <tr>
       <td><strong>Name</strong></td>
-      <td>Reading a file</td>
+      <td>Find words</td>
     </tr>
     <tr>
       <td><strong>Start Data & Time</strong></td>
@@ -25,10 +25,24 @@
 
 ## Question
 
-Implement the `Count(path string) uint64` function in the `bench` package, which does the following things:
+Implement the `Find(path, s string) (string, error)` function in the `bench` package, which does the following things:
 
-1. Read the text file which contains only `0 (U+0030)`, `1 (U+0031)` and `LF (U+000A)` on the `path` specified as a parameter
-2. Count the number of `1 (U+0031)` in the file and return it
+1. Return some kind of `error` if `s` is empty
+2. Read the text file on the `path`
+3. Find the `s` words on the file
+4. Return the row numbers and indexs in the form of `r:c,r:c,...,r:c`, at which the `s` words exist
+
+## Example
+
+If the text file on the `./data.txt` contains the following data,
+
+```
+aabbaa
+xxxxxx
+aaabbb
+```
+
+`Find("./data.txt", "aa")` should return `"1:0,1:4,3:0,3:1", nil`.
 
 ## Sample Program
 
