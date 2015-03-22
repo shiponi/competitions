@@ -13,11 +13,11 @@
       <td>Find words</td>
     </tr>
     <tr>
-      <td><strong>Start Data & Time</strong></td>
+      <td><strong>Start Date & Time</strong></td>
       <td>2015-03-22 12:00 a.m. UTC</td>
     </tr>
     <tr>
-      <td><strong>End Data & Time</strong></td>
+      <td><strong>End Date & Time</strong></td>
       <td>2015-04-12 11:00 p.m. UTC</td>
     </tr>
   </tbody>
