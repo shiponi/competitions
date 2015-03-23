@@ -42,7 +42,7 @@ xxxxxx
 aaabbb
 ```
 
-`Find("./data.txt", "aa")` should return `"1:0,1:4,3:0,3:1", nil`.
+`Find("./data.txt", "aa")` should return `"1:0,1:4,3:0,3:1"` and `nil`.
 
 ## Sample Program
 
