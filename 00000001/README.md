@@ -47,3 +47,7 @@ aaabbb
 ## Sample Program
 
 The [sample](sample) directory contains a sample program and a testing code. You can start with this sample program.
+
+## How to Join
+
+See the [How to Join](https://github.com/gobench/competitions/wiki/How-to-Join) Wiki page.
