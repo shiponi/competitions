@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td><strong>End Date & Time</strong></td>
-      <td>2015-04-12 11:00 p.m. UTC</td>
+      <td>2015-04-12 11:30 p.m. UTC</td>
     </tr>
   </tbody>
 </table>
