@@ -9,3 +9,7 @@
 ## How to Join
 
 See the [How to Join](https://github.com/gobench/competitions/wiki/How-to-Join) Wiki page.
+
+## Call for Questions
+
+Questions of the competitions are highly-welcomed. If you have good questions for benchmark competitions, please send an email to Keiji Yoshida (yoshida.keiji.84@gmail.com).
