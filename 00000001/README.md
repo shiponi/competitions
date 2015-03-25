@@ -46,7 +46,7 @@ aaabbb
 
 ## Sample Program
 
-The [sample](sample) directory contains a sample program and a testing code. You can start with this sample program. The actual test data is different from the sample program's one.
+The [sample](sample) directory contains a sample program and a testing code. You can start with this sample program. **The actual test data is different from the sample program's one.**
 
 ## How to Join
 
