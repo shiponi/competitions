@@ -48,6 +48,10 @@ aaabbb
 
 The [sample](sample) directory contains a sample program and a testing code. You can start with this sample program. **The actual test data is different from the sample program's one.**
 
+## Result
+
+See [the result page](http://gobench.org/results.html?no=1).
+
 ## How to Join
 
 See the [How to Join](https://github.com/gobench/competitions/wiki/How-to-Join) Wiki page.
